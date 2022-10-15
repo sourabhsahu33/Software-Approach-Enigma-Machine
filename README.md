@@ -27,13 +27,13 @@ And in below image this is our internal connection or we can say that is the con
 ![Screenshot (9)](https://user-images.githubusercontent.com/104298270/195980022-95c7b9b5-7325-4f3f-bd78-9f17a25c38f1.png)
 
 # Step-4
-So the final step is that you have to just set the above three Rotor Position and note down the numbers of  any pages , because it will change when you Enter your Plaintext. So keep remember the rotor position numbers then Enter the Plaintext's of each word and write down the  Outcomes word because that will be your Encrypted Text.
+So the final step is that you have to just set the above three Rotor Position and note down the numbers of positon in any pages , because it will change simultaneously when you Enter your Plaintext. So keep remember the rotor position numbers then Enter the Plaintext's of each word and write down the  Outcomes word because that will be your Encrypted Text.
 After then if you want to know the Actual Plaintext throw the Encrypted text so then firstly determine the previous Rotor Position set previous rotor position number and enter the Encrypted Text then you will got your Decrypted text , which you Entered in the first time .
 As you can see in the below image.
 
 ![Screenshot 2022-10-15 150120](https://user-images.githubusercontent.com/104298270/195980958-97e4974c-13ea-4dfc-8b57-b23901f3b8a6.png)
 
-# So this is the overall my Project...
+# So this is the overall Structure of My Project...
 
 
 
