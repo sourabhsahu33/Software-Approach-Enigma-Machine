@@ -5,7 +5,7 @@ So in this project basically i have wrote a program to simulate the Enigma machi
 And also try to write a program to decrypt the secret code(cipher text) to (Plaintext) produced by Enigma machine using Proccessing 4.0 software.
 
 # Step-1
-So first open our software.
+So first of all open the proceesing software that looks like this interface.
 
 ![Screenshot 2022-10-15 145152](https://user-images.githubusercontent.com/104298270/195979733-e409888f-0142-42b4-bff4-ebf40d5332c5.png)
 
